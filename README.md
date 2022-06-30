@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <a href="https://github.com/MoeXian/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/MoeXian/iBeats/main/files/heart.svg"/></a>
 
 <!--
 **MoeXian/MoeXian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
